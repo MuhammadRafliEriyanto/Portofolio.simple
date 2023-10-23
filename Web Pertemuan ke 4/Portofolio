@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="portofolio.css">
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+#profile {
+    text-align: center;
+}
+#profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#social {
+    text-align: center;
+    margin-top: 10px;
+}
+#resume {
+    margin-top: 20px;
+}
+#work-samples {
+    margin-top: 20px;
+}
+</style>
+<head>
+    <title>Portofolio</title>
+</head>
+<body>
+    <header>
+        <h1>Muhammad Rafli Eriyanto</h1>
+    </header>
+    <div id="container">
+        <div id="profile">
+            <img src="8e962692-1ff0-4cb8-bc6c-3b5e81213922.jpeg">
+            <h2>Data Diri</h2>
+            <p>
+                Media Sosial:
+                <a href="https://instagram.com/_dolphinsss_">Instagram</a> |
+                <a href="https://github.com/MuhammadRafliEriyanto">GitHub</a>
+            </p>
+        </div>
+        <div id="resume">
+            <h2>Tentang saya</h2>
+            <p>Hai !, Nama saya Muhammad Rafli Eriyanto, biasa dipanggil King. Saya anak pertama dari 3 bersaudara, hobby saya adalah main basket. Umur saya 18 Tahun, saya berkuliah di Politeknik Harapan Bersama Tegal.</p>
+        </div>
+        <div id="work-samples">
+            <h2>Pengalaman</h2>
+            <p>Saya pernah mengikuti kegiatan PKL selama 3 Bulan saat SMK di Tangerang.</p>
+
+        </div>
+    </div>
+</body>
+</html>
